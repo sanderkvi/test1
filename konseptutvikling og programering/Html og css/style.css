@@ -1,0 +1,33 @@
+body
+{
+    background-color: rgb(255, 255, 255);
+}
+img {
+    width: 500;
+}
+a{
+    text-decoration:none;
+    color: black;
+}
+button{
+    background-color: #9fd4d9;
+    width: 500;
+    padding-bottom: 500;
+    font-size: xx-large;   
+}
+input{
+    text-decoration: none;
+    font-size: large;
+    padding-left: 140;
+    padding-right: 10;
+    padding-bottom: 30;
+    
+}
+h2{ 
+    size-adjust: 90;
+}
+    
+    
+h1{
+    display: block;
+}
